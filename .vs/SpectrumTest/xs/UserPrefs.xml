@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8F234532-F85B-4F03-8145-4EBCD5042EE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.SpectrumTest PreferredExecutionTarget="Android.pixel_3_xl_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpectrumTest" expanded="True" selected="True">
+            <Node name="SpectrumTest" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Validation" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
