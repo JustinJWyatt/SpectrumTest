@@ -4,14 +4,11 @@ using Android.Support.V7.App;
 using Android.Widget;
 using Android.Views;
 using System.IO;
-using SpectrumTest.Models;
 using SQLite;
 using Android.Content;
 using ReactiveUI;
-using SpectrumTest.ViewModels;
-using System.Reactive.Linq;
-using System;
-using System.Reactive;
+using ClassLibrary2.ViewModels;
+using ClassLibrary2.Models;
 
 namespace SpectrumTest
 {

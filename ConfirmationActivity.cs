@@ -3,8 +3,8 @@ using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Widget;
+using ClassLibrary2.ViewModels;
 using ReactiveUI;
-using SpectrumTest.ViewModels;
 
 namespace SpectrumTest
 {

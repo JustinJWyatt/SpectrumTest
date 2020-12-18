@@ -4,12 +4,12 @@ using Android.App;
 using Android.OS;
 using Android.Widget;
 using ReactiveUI;
-using SpectrumTest.ViewModels;
 using Android.Content;
 using SQLite;
-using SpectrumTest.Models;
 using System.Linq;
-using SpectrumTest.Validation;
+using ClassLibrary2.ViewModels;
+using ClassLibrary2.Validation;
+using ClassLibrary2.Models;
 
 namespace SpectrumTest
 {
