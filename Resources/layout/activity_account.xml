@@ -21,8 +21,7 @@
     <EditText
         android:hint="@string/phone_hint"
         android:id="@+id/account_phone"
-        android:inputType="phone"
-        android:digits="0123456789+"
+        android:inputType="text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <EditText
