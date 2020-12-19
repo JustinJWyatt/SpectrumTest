@@ -91,11 +91,11 @@ namespace SpectrumTest
             alertDialog = builder.Create();
 
             if (account == null)
-                alertDialog.SetTitle("This account does not exist.");
+                alertDialog.SetMessage("This account does not exist.");
             else if (account.Password != ViewModel.Password)
-                alertDialog.SetTitle("Password is incorrect.");
+                alertDialog.SetMessage("Password is incorrect.");
             else
-                alertDialog.SetTitle("User successfully found.");
+                alertDialog.SetMessage("User successfully found.");
 
             alertDialog.Show();
         }
